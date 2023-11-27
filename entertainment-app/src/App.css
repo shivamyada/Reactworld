@@ -1,0 +1,12 @@
+.app{
+  background-color: antiquewhite;
+color: black;
+min-width: 100vh;
+
+
+}
+@media (max-width: 700px) {
+.app {
+  padding-top: 70px;
+}
+}
